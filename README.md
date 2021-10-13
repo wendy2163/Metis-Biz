@@ -1,4 +1,3 @@
-Twitter Bot’s Influence on Stock Price 
 
 **The Question**
 The project is inspired by the recent [news](https://markets.businessinsider.com/news/stocks/nancy-pelosi-stock-trades-meme-investing-litquidity-paul-pelosi-alphabet-2021-9), where Nancy Pelosi, the house speaker, became the biggest meme in investing. This raises some questions regarding insider trading, followed by people actively copying and following the Pelosi approach. The ability to shift market sentiment towards one or multiple stocks and generating momentum is a powerful weapon and needs close monitoring. It could be a disaster if it falls into the wrong hands. E.g. dogecoin and Elon Musk. 
