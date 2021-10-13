@@ -15,6 +15,7 @@ For the preliminary exploratory data analysis, I used the data set from kaggle: 
 I also have a [data set](https://www.kaggle.com/omermetinn/values-of-top-nasdaq-copanies-from-2010-to-2020) regarding the values of top companies.
 
 **The Algorithms**
+
 I used Natural Language Toolkit to assign each tweet sentiment score, this allows me to represent tweets in a numeric way and conduct analysis based on the positive sentiment and total sentiment score. 
 
 
